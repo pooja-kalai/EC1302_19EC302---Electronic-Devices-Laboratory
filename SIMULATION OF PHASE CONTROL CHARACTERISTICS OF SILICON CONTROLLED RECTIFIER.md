@@ -25,7 +25,7 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 
-
+khiihk
 
 ## OUTPUT GRAPH:
 
