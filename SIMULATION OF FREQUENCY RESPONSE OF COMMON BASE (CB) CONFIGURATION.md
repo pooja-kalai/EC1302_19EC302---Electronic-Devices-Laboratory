@@ -23,6 +23,8 @@ LT-Spice
 
 ## CIRCUIT DIAGRAM:
 ![WhatsApp Image 2025-11-23 at 18 58 13_e5e436d3](https://github.com/user-attachments/assets/cd59c4e7-3a82-408e-996f-809ab670a801)
+![WhatsApp Image 2025-12-03 at 12 17 06_d4c2827b](https://github.com/user-attachments/assets/b3aa3a37-2548-445f-b215-9e1547ec472f)
+
 
 
 
