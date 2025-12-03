@@ -36,7 +36,8 @@ LT-Spice
 
 
 ## CIRCUIT DIAGRAM:
-![WhatsApp Image 2025-11-23 at 21 35 03_5ff77fcc](https://github.com/user-attachments/assets/52df44f3-b150-473e-a095-c340b934b34d)
+![WhatsApp Image 2025-11-23 at 21 35 03_5ff77fcc](https://github.com/user-attachments/assets/52df44f3-b150-473e-a095-c340b934b34d)![WhatsApp Image 2025-12-03 at 12 30 55_cb2890d0](https://github.com/user-attachments/assets/bc8ac074-2827-450d-b38f-162ac6c7ed4b)
+
 
 
 ## AC INPUT WAVEFORM:
